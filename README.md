@@ -17,12 +17,13 @@ of data in order to expose a simple RESTful JSON API.
 - Your data sources this needs to come from the following sources:
   -  [The Punk API](https://punkapi.com/documentation/v2)
       - this API requires no authentication 
-  - the local resource file
+  - the [local resource file](https://github.com/soenergy/dl-backend-technical-interview/blob/main/resources/so-energy-beers.json)
   - consumers of your own API! (via your own endpoint to add a beer)
 
 - you are free to add whatever libraries you like to complete the task at hand
 
-- the JSON definition of beer can be found within the test resources  
+- the JSON definition of a beer that your service should be using for your various 
+  endpoints [can be found within the resources](https://github.com/soenergy/dl-backend-technical-interview/blob/main/resources/beer-example/beer-example.json)  
 
 ## Notes
 
