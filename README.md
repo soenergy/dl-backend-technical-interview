@@ -4,6 +4,7 @@ in which you need to create a Ktor based Kotlin microservice that utilizes multi
 of data in order to expose a simple RESTful JSON API.    
 
 ## Setup
+- fork this repository
 - clone this git repository as this will form be the base of your service
 
 ## Exercise Detail
@@ -20,7 +21,7 @@ of data in order to expose a simple RESTful JSON API.
   - the [local resource file](https://github.com/soenergy/dl-backend-technical-interview/blob/main/resources/so-energy-beers.json)
   - consumers of your own API! (via your own endpoint to add a beer)
 
-- you are free to add whatever libraries you like to complete the task at hand
+- you are free to add any libraries you like to compliment the current project setup in order to complete the task at hand
 
 - the JSON definition of a beer that your service should be using for your various 
   endpoints [can be found within the resources](https://github.com/soenergy/dl-backend-technical-interview/blob/main/resources/beer-example/beer-example.json)  
