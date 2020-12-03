@@ -4,8 +4,9 @@ in which you need to create a Ktor based Kotlin microservice that utilizes multi
 of data in order to expose a simple RESTful JSON API.    
 
 ## Setup
-- fork this repository
 - clone this git repository as this will form be the base of your service
+    - **you do not need to fork this repository**
+    - **PR's will not be accepted on this repository**
 
 ## Exercise Detail
 - you will need to create the following fully functional RESTful endpoints: 
@@ -51,3 +52,7 @@ of data in order to expose a simple RESTful JSON API.
 - your service implementation will form the basis of our final stage interview
 
 - should you have any questions, please don't hesitate to get in touch with us
+
+## Delivering your finished project
+- zip up your entire local git project
+- send us the zipped-up git project
