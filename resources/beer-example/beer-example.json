@@ -1,0 +1,5 @@
+{
+  "identifier": 1,
+  "name": "Example Beer name",
+  "description": "This is an example of a beer that will be returned by your API"
+}
